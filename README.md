@@ -1,2 +1,2 @@
 # My-Stack-point
-Hold all my inspiration 
+Holds all my inspiration.
